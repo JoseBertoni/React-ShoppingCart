@@ -1,3 +1,3 @@
 # React-ShoppingCart
 
-This project, though simple in escense, is structured as a real-life application. The project was started using Vite, and along with typescript, it uses some libraries like react-boostrap and react-router-dom
+Este proyecto, aunque simple en esencia, está estructurado como una aplicación de la vida real. El proyecto se inició con Vite y, junto con TypeScript, utiliza algunas bibliotecas como react-boostrap y react-router-dom.
